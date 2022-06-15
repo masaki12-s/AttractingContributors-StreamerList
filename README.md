@@ -1,34 +1,3 @@
-Skip to content
-Search or jump to…
-Pulls
-Issues
-Marketplace
-Explore
- 
-@ruchan12 
-aru1702
-/
-AttractingContributors-TouhouFumo
-Public
-forked from NAIST-SE/AttractingContributors
-Code
-Pull requests
-13
-Actions
-Projects
-Wiki
-Security
-Insights
-AttractingContributors-TouhouFumo/README.md
-@aru1702
-aru1702 Update README.md
-Latest commit 3178a24 23 hours ago
- History
- 5 contributors
-@aru1702@XianChen1996@raux@AtropsCooper@Kotjik
-61 lines (47 sloc)  2.34 KB
-
-
 # Introduction
 My name is [A], part of students of Software Engineering (4006).
 I have interest into Touhou Project, especially I love to collect their plushies.
@@ -41,6 +10,7 @@ I also a new fans so I will try my best to explain and let's have a healthy conv
 https://github.com/NAIST-SE/AttractingContributors/discussions/407
 
 **This repo link, kindly please to share with the others too:**
+
 https://github.com/aru1702/AttractingContributors-TouhouFumo
 
 If you wish to add into list below, you can directly clone and pull request after your add your favorite character!
@@ -76,17 +46,26 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
+# Disclaimer
+This is **not tier base**, it's just list of everyone favorite character.
+
+Sometimes there are two or more person choosing the same character, I will write them as count (2x, 3x, ...)
+
 # List of your favorite Touhou character
+- 👆古明地こいし (Koishi Komeiji)
+- Alice Margatroid
+- レミリア・スカーレット (Remilia Scarlet) **(2x)**
+- Yuyuko Saigoji (from Perfect Cherry Blossom?)
+- Kirisame Marisa (Yukkuri Marisa is also cute)
+- Mizuhashi Parsee
+- Yamada (Eiki/Yamaxanadu) --> やまダ！
+- Reimu Hakurei **(2x)**
+- xxxHolic (circle name?)
+-（ゆっくり）霊夢 (Reimu Hakurei yukkuri ver.) 
+- Cirno ⑨
 - Reisen Udongein Inaba
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
+-
+-
+-
 -
 etc...
