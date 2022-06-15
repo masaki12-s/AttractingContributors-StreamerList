@@ -61,7 +61,7 @@ Sometimes there are two or more person choosing the same character, I will write
 - Reimu Hakurei **(2x)**
 - xxxHolic (circle name?)
 -（ゆっくり）霊夢 (Reimu Hakurei yukkuri ver.) 
-- 
+- Cirno ⑨
 - 
 -
 etc...
