@@ -53,12 +53,12 @@ Sometimes there are two or more person choosing the same character, I will write
 # List of your favorite Touhou character
 - 👆古明地こいし (Koishi Komeiji)
 - Alice Margatroid
-- レミリア・スカーレット (Remilia Scarlet)
+- レミリア・スカーレット (Remilia Scarlet) **(2x)**
 - Yuyuko Saigoji (from Perfect Cherry Blossom?)
 - Kirisame Marisa (Yukkuri Marisa is also cute)
 - Mizuhashi Parsee
 - Yamada (Eiki/Yamaxanadu) --> やまダ！
-- Reimu Hakurei (2x)
+- Reimu Hakurei **(2x)**
 - xxxHolic (circle name?)
 -（ゆっくり）霊夢 (Reimu Hakurei yukkuri ver.) 
 - 
